@@ -1,5 +1,4 @@
 geoid,name,MGR,MGR_Error
-05000US21111,"Jefferson County, KY",954,8
 14000US21111000201,"Census Tract 2.01, Jefferson, KY",829,231
 14000US21111000202,"Census Tract 2.02, Jefferson, KY",840,195
 14000US21111000300,"Census Tract 3, Jefferson, KY",877,173
@@ -215,4 +214,3 @@ geoid,name,MGR,MGR_Error
 14000US21111012801,"Census Tract 128.01, Jefferson, KY",646,457
 14000US21111012802,"Census Tract 128.02, Jefferson, KY",692,302
 14000US21111013100,"Census Tract 131, Jefferson, KY",1354,152
-14000US21111980100,"Census Tract 9801, Jefferson, KY",,
