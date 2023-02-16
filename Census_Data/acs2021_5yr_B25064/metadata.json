@@ -1,0 +1,20 @@
+{
+    "release": {
+        "id": "acs2021_5yr",
+        "years": "2017-2021",
+        "name": "ACS 2021 5-year"
+    },
+    "tables": {
+        "B25064": {
+            "title": "Median Gross Rent (Dollars)",
+            "universe": "Renter-occupied Housing Units Paying Cash Rent",
+            "denominator_column_id": null,
+            "columns": {
+                "B25064001": {
+                    "name": "Median gross rent",
+                    "indent": 0
+                }
+            }
+        }
+    }
+}

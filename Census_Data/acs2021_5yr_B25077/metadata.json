@@ -1,0 +1,20 @@
+{
+    "release": {
+        "id": "acs2021_5yr",
+        "years": "2017-2021",
+        "name": "ACS 2021 5-year"
+    },
+    "tables": {
+        "B25077": {
+            "title": "Median Value (Dollars)",
+            "universe": "Owner-occupied Housing Units",
+            "denominator_column_id": null,
+            "columns": {
+                "B25077001": {
+                    "name": "Median value (dollars)",
+                    "indent": 0
+                }
+            }
+        }
+    }
+}
